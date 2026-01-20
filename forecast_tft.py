@@ -25,6 +25,12 @@ def load_model(model_dir, target_col, training_dataset):
 def test_mode(df);
     if df is None
         return "hello"
+    def test_mode(df);
+    if df is None
+        return "hello"
+    def test_mode(df);
+    if df is None
+        return "hello"
     
     
 def forecast_target(df, target_col, model_dir="models", max_encoder_length=30, max_prediction_length=12):
